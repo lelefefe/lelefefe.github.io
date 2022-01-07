@@ -26,4 +26,4 @@ Github 默认为开发版，如果需要稳定发行版，请前往：https://gi
 https://github.com/Tokinx/Adams/issues
 
 
-<a href='http://www.beian.miit.gov.cn/'>桂ICP备16002878号</a>
+<a href='https://beian.miit.gov.cn/'>桂ICP备16002878号</a>
